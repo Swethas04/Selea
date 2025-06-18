@@ -20,6 +20,7 @@ body{
     overflow-x: hidden;
     letter-spacing:0.2rem;
     line-height:3rem;
+    background-color: #f1f3f0;
 }
 header{
     position: fixed;

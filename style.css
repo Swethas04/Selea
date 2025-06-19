@@ -402,3 +402,157 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+.menu-icon {
+    display: none;
+    font-size: 2.5rem;
+    cursor: pointer; }
+
+/*RESPONSIVE*/
+@media (max-width: 1024px) {
+    .hero {
+        flex-direction: column;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .about-content,
+    .p-main {
+        margin: 0 20px;
+        padding: 20px;
+    }
+
+    .p-img img {
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    header{
+        position: fixed;
+    }
+    .menu-icon {
+            display: block;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 100;   }
+
+    nav ul {
+        display:none;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+        nav ul.show {
+            display: flex;   }
+
+    .hero {
+        flex-direction: column;
+        height: auto;
+        background-position: top;
+        text-align: center;
+    }
+
+    .hero h1,
+    .hero p {
+        font-size: 2.5rem;
+        margin: 1rem 0;
+    }
+
+    .hero-button a {
+        padding: 0.5rem 1rem;
+        font-size: 1.4rem;
+    }
+
+    .grid-container,
+    .prd-grid {
+        width: 90%;
+    }
+
+    .p-content {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .p-main {
+        margin: 0;
+        padding: 20px;
+        text-align: left;
+    }
+
+    .p-img img {
+        width: 90%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .join-content {
+        padding: 20px;
+    }
+}
+
+
+
+@media (max-width: 480px) {
+
+    .menu-icon {
+            display: block;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 100;   }
+    html {
+        font-size: 55%;
+    }
+
+    header {
+        position:fixed;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+    }
+
+    nav ul {
+        display:none;
+        flex-direction: column;
+        gap: 8px;
+    }
+        nav ul.show {
+            display: flex;   }
+
+    .hero {
+        padding: 20px 10px;
+    }
+
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+
+    .hero p {
+        font-size: 1.6rem;
+    }
+
+    .about-content,
+    .prd-content,
+    .philosophy {
+        padding: 10px;
+        margin: 0;
+    }
+
+    .join h2 {
+        font-size: 2rem;
+    }
+
+    .join-content {
+        width: 95%;
+    }
+
+    footer {
+        font-size: 1.2rem;
+    }
+}

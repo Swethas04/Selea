@@ -15,6 +15,7 @@
         <div class="logo">
             <a href="#">Seléa</a>
         </div>
+        
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -23,6 +24,8 @@
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
+        <div class="menu-icon" onclick="toggleMenu()">☰</div>
+
     </header>
    <!--hero-->
     <section class="hero">
@@ -195,5 +198,13 @@
     <footer>
         <p>&copy;2025 Seléa — Rooted in stillness. Created with care.</p>
     </footer>
+
+    <script>
+        function toggleMenu() {
+          const navList = document.querySelector('nav ul');
+          navList.classList.toggle('show');
+        }
+      </script>
+      
 </body>
 </html>

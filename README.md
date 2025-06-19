@@ -32,7 +32,11 @@ Seléa blends visual simplicity with emotional storytelling. The site includes:
 ## 📸 Preview
 ![Selea](https://github.com/user-attachments/assets/b881e6d7-4dce-420d-b3ae-97cf76b0cff3)
 
+
+Check out the [live Seléa website](https://selea.netlify.app/) for a full experience.
+
 ---
+
 ## 📌 What I Did
 ✅ Designed and built a minimal, brand-aligned skincare website using HTML & CSS
 ✅ Created custom hover effects, responsive layouts, and a hamburger menu

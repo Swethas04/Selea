@@ -19,13 +19,13 @@ Seléa blends visual simplicity with emotional storytelling. The site includes:
 
 ## 🚀 Features
 
-🌄 Hero section with call-to-action
-🖼️ Hover-reveal feature cards (About)
-🧴 Product grid with poetic names and details
-🌙 Philosophy section written in brand voice
-📩 Contact form with input fields and CTA
-📱 Responsive design using Flexbox and media queries
-✨ Mobile navigation menu with hamburger toggle
+- 🌄 Hero section with call-to-action
+- 🖼️ Hover-reveal feature cards (About)
+- 🧴 Product grid with poetic names and details
+- 🌙 Philosophy section written in brand voice
+- 📩 Contact form with input fields and CTA
+- 📱 Responsive design using Flexbox and media queries
+- ✨ Mobile navigation menu with hamburger toggle
 
 ---
 
@@ -38,17 +38,17 @@ Check out the [live Seléa website](https://selea.netlify.app/) for a full exper
 ---
 
 ## 📌 What I Did
-✅ Designed and built a minimal, brand-aligned skincare website using HTML & CSS
-✅ Created custom hover effects, responsive layouts, and a hamburger menu
-✅ Designed sections to visually support poetic and calming brand copy
-✅ Structured semantic HTML and organized assets clearly
+- ✅ Designed and built a minimal, brand-aligned skincare website using HTML & CSS
+- ✅ Created custom hover effects, responsive layouts, and a hamburger menu
+- ✅ Designed sections to visually support poetic and calming brand copy
+- ✅ Structured semantic HTML and organized assets clearly
 
 ---
 
 ## 🌱 What I Learned
-🌿 Improved responsive design and layout planning with Flexbox
-🌿 Gained confidence in styling interactive elements with clean transitions
-🌿 Learned to blend design, brand voice, and functionality into one cohesive site
-🌿 Practiced maintaining clarity and structure in both content and code
+- 🌿 Improved responsive design and layout planning with Flexbox
+- 🌿 Gained confidence in styling interactive elements with clean transitions
+- 🌿 Learned to blend design, brand voice, and functionality into one cohesive site
+- 🌿 Practiced maintaining clarity and structure in both content and code
 
 ---
